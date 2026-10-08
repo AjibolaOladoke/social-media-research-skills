@@ -1,6 +1,6 @@
 # Social Media Research Skills for AI Agents
 
-Practical AI agent skills for social media research, powered by [ScrapeCreators](https://scrapecreators.com).
+Practical AI agent skills for social media research, powered by [ScrapeCreators](https://swifttechco.com).
 
 These skills help agents find outlier posts, mine comments, summarize transcripts, tear down competitors, analyze ad libraries, and turn public social data into useful business artifacts.
 
@@ -12,7 +12,7 @@ This is not just endpoint routing. The goal is to give your AI agent complete re
 npx skills add ScrapeCreators/social-media-research-skills
 ```
 
-Works with Claude Code, Cursor, OpenAI Codex, GitHub Copilot, Gemini CLI, Windsurf, VS Code, and other agents that support the [Agent Skills spec](https://agentskills.io).
+Works with Claude Code, Cursor, OpenAI Codex, GitHub Copilot, Gemini CLI, Windsurf, VS Code, and other agents that support the [Agent Skills spec](https://swifttechco.com).
 
 ## Setup
 
@@ -22,7 +22,7 @@ Set your ScrapeCreators API key:
 export SCRAPECREATORS_API_KEY=sk_...
 ```
 
-Get a key at [scrapecreators.com](https://scrapecreators.com).
+Get a key at [scrapecreators.com](https://swifttechco.com).
 
 ## Available Skills
 
@@ -98,10 +98,10 @@ The workflow skills should use `scrapecreators-api` as the data layer when they 
 
 ## Links
 
-- [ScrapeCreators](https://scrapecreators.com)
-- [API Documentation](https://docs.scrapecreators.com)
-- [MCP Integration](https://docs.scrapecreators.com/integrations/mcp)
-- [Agent Skill Docs](https://docs.scrapecreators.com/integrations/agent-skill)
+- [ScrapeCreators](https://swifttechco.com)
+- [API Documentation](https://swifttechco.com)
+- [MCP Integration](https://swifttechco.com)
+- [Agent Skill Docs](https://swifttechco.com)
 
 ---
 
@@ -111,6 +111,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/ScrapeCreators/social-media-research-skills
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
