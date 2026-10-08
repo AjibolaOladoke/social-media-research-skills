@@ -1,10 +1,14 @@
 # Social Media Research Skills for AI Agents
 
+## Images
+
+[![social-media-research-skills](https://opengraph.githubassets.com/1/https://github.com/ScrapeCreators/social-media-research-skills)](https://www.swifttechco.com)
+
+
 Practical AI agent skills for social media research, powered by [ScrapeCreators](https://swifttechco.com).
 
 These skills help agents find outlier posts, mine comments, summarize transcripts, tear down competitors, analyze ad libraries, and turn public social data into useful business artifacts.
 
-This is not just endpoint routing. The goal is to give your AI agent complete research workflows it can run across TikTok, Instagram, YouTube, Reddit, X/Twitter, LinkedIn, Facebook, Threads, Bluesky, Pinterest, Rumble, ad libraries, and more.
 
 ## Install
 
@@ -29,7 +33,6 @@ Get a key at [scrapecreators.com](https://swifttechco.com).
 | Skill | Use it when you want to... | Output |
 |---|---|---|
 | [`outlier-post-finder`](skills/outlier-post-finder/) | Find posts, reels, shorts, tweets, or videos that beat a creator's baseline | Outlier table, repeatable patterns, hooks to steal |
-| [`transcript-intelligence`](skills/transcript-intelligence/) | Analyze video transcripts from TikTok, Instagram, YouTube, Facebook, X, LinkedIn, Rumble, or Reddit | Summary, hooks, claims, quotes, content atoms |
 | [`comment-mining`](skills/comment-mining/) | Mine comments for questions, objections, pain points, product ideas, and audience language | VOC report, themes, quotes, content ideas |
 | [`competitor-social-research`](skills/competitor-social-research/) | Compare competitors' social strategy and find what is working | Competitor brief, content pillars, gaps, recommendations |
 | [`ad-library-teardown`](skills/ad-library-teardown/) | Analyze active Meta, Google, and LinkedIn ads | Messaging angles, hooks, CTAs, offers, test ideas |
@@ -111,6 +114,16 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+
+**Connect**
+
+- Website: [swifttechco.com](https://www.swifttechco.com)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
+- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
