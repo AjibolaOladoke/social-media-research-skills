@@ -2,7 +2,7 @@
 
 ## Images
 
-[![social-media-research-skills](https://opengraph.githubassets.com/1/https://github.com/ScrapeCreators/social-media-research-skills)](https://www.swifttechco.com)
+[![social-media-research-skills](https://opengraph.githubassets.com/1/ScrapeCreators/social-media-research-skills)](https://www.swifttechco.com)
 
 
 Practical AI agent skills for social media research, powered by [ScrapeCreators](https://swifttechco.com).
