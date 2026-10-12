@@ -1,14 +1,12 @@
-# Social Media Research Skills for AI Agents
+# social-media-research-skills
+
+## What This Is
+
+Every project needs a shelf of ready answers. product and engineering is one of those shelves, and social-media-research-skills is the entry on it - the notes, patterns and fixes we reuse when this kind of work comes up.
 
 ## Images
 
-[![social-media-research-skills](https://opengraph.githubassets.com/1/ScrapeCreators/social-media-research-skills)](https://www.swifttechco.com)
-
-
-Practical AI agent skills for social media research, powered by [ScrapeCreators](https://swifttechco.com).
-
-These skills help agents find outlier posts, mine comments, summarize transcripts, tear down competitors, analyze ad libraries, and turn public social data into useful business artifacts.
-
+[![social-media-research-skills](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Install
 
@@ -16,7 +14,7 @@ These skills help agents find outlier posts, mine comments, summarize transcript
 npx skills add ScrapeCreators/social-media-research-skills
 ```
 
-Works with Claude Code, Cursor, OpenAI Codex, GitHub Copilot, Gemini CLI, Windsurf, VS Code, and other agents that support the [Agent Skills spec](https://swifttechco.com).
+Works with Claude Code, Cursor, OpenAI Codex, GitHub Copilot, Gemini CLI, Windsurf, VS Code, and other agents that support the Agent Skills spec.
 
 ## Setup
 
@@ -26,7 +24,7 @@ Set your ScrapeCreators API key:
 export SCRAPECREATORS_API_KEY=sk_...
 ```
 
-Get a key at [scrapecreators.com](https://swifttechco.com).
+Get a key at scrapecreators.com.
 
 ## Available Skills
 
@@ -101,10 +99,10 @@ The workflow skills should use `scrapecreators-api` as the data layer when they 
 
 ## Links
 
-- [ScrapeCreators](https://swifttechco.com)
-- [API Documentation](https://swifttechco.com)
-- [MCP Integration](https://swifttechco.com)
-- [Agent Skill Docs](https://swifttechco.com)
+- ScrapeCreators
+- API Documentation
+- MCP Integration
+- Agent Skill Docs
 
 ---
 
@@ -116,14 +114,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
