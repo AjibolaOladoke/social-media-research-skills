@@ -148,3 +148,11 @@ Compiled and maintained from upstream [ScrapeCreators/social-media-research-skil
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
